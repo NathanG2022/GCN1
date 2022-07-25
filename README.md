@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Graph Convolutional Networks
 
 This is a TensorFlow implementation of Graph Convolutional Networks for the task of (semi-supervised) classification of nodes in a graph, as described in our paper:
@@ -70,3 +71,7 @@ Please cite our paper if you use this code in your own work:
   year={2017}
 }
 ```
+=======
+# GCN1
+refer to http://tkipf.github.io/graph-convolutional-networks for detail
+>>>>>>> aaa00362d361d3ffb205a748ceabf4d7cba07753
